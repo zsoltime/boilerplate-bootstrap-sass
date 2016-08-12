@@ -16,7 +16,7 @@ output_style = (environment == :production) ? :compressed : :expanded
 # relative_assets = true
 
 # You can disable debugging comments that display the original location of
-your selectors.
+# your selectors.
 
 line_comments = false
 
